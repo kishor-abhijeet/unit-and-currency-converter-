@@ -21,7 +21,7 @@ function Footer() {
         href="https://digitalheroesco.com"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-700">
+          className="inline-flex items-center rounded-lg bg-blue-500 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-700">
           Built for Digital Heroes
         </a>
       </div>
